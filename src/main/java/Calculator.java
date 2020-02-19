@@ -25,6 +25,8 @@ public class Calculator {
             System.out.println(e.getMessage());
         }
 
+        System.out.println("This is to calculate the rectangle");//comment made by nicole hawthorne
+
     }
 
 }
